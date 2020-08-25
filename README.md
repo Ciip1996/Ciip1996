@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Github](https://img.shields.io/github/followers/DamianRincon?style=social)](https://github.com/DamianRincon)
+[![Github](https://img.shields.io/github/last-commit/DamianRincon/DamianRincon)](https://github.com/DamianRincon/DamianRincon)
+[![Github](https://img.shields.io/github/stars/DamianRincon/DamianRincon?style=social)](https://github.com/DamianRincon/DamianRincon)
+[![Github](https://img.shields.io/github/watchers/DamianRincon/DamianRincon?style=social)](https://github.com/DamianRincon/DamianRincon)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdamiarc_dev)](https://twitter.com/damiarc_dev)
 
 <img align="right" width="500" height="500" src="https://github.com/Ciip1996/Ciip1996/blob/master/binary-code-475664_1280.jpg">
 
@@ -23,11 +28,6 @@ Here are some ideas to get you started:
 
 Front End Developer | React Developer | Web | Jr. Mobile (React Native - Xamarin - iOS)
 
-[![Github](https://img.shields.io/github/followers/DamianRincon?style=social)](https://github.com/DamianRincon)
-[![Github](https://img.shields.io/github/last-commit/DamianRincon/DamianRincon)](https://github.com/DamianRincon/DamianRincon)
-[![Github](https://img.shields.io/github/stars/DamianRincon/DamianRincon?style=social)](https://github.com/DamianRincon/DamianRincon)
-[![Github](https://img.shields.io/github/watchers/DamianRincon/DamianRincon?style=social)](https://github.com/DamianRincon/DamianRincon)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdamiarc_dev)](https://twitter.com/damiarc_dev)
 
 
 ## About Ivan
