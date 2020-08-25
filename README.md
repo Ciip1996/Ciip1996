@@ -25,8 +25,10 @@ Front End Developer | React Developer | Web | Jr. Mobile (React Native - Xamarin
 
 [![Github](https://img.shields.io/github/followers/Ciip1996?style=social)](https://github.com/Ciip1996)
 [![Github](https://img.shields.io/github/last-commit/Ciip1996/Ciip1996)](https://github.com/Ciip1996/Ciip1996)
-[![Github](https://img.shields.io/github/stars/Ciip1996/Ciip1996?style=social)](https://github.com/Ciip1996/Ciip1996)
+<!--
 [![Github](https://img.shields.io/github/watchers/Ciip1996/Ciip1996?style=social)](https://github.com/Ciip1996/Ciip1996)
+[![Github](https://img.shields.io/github/stars/Ciip1996/Ciip1996?style=social)](https://github.com/Ciip1996/Ciip1996)
+-->
 
 
 
