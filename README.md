@@ -54,9 +54,10 @@ Front End Developer | React Developer | Web | Jr. Mobile (React Native - Xamarin
 <a href="https://stackoverflow.com/users/11723572/ciip1996">
   <img align="left" alt="Stack" width="22px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
 </a>
+<a>
 [![Github](https://img.shields.io/github/followers/Ciip1996?style=social)](https://github.com/Ciip1996)
 [![Github](https://img.shields.io/github/last-commit/Ciip1996/Ciip1996)](https://github.com/Ciip1996/Ciip1996)
 [![Github](https://img.shields.io/github/stars/Ciip1996/Ciip1996?style=social)](https://github.com/Ciip1996/Ciip1996)
 [![Github](https://img.shields.io/github/watchers/Ciip1996/Ciip1996?style=social)](https://github.com/Ciip1996/Ciip1996)
 
-
+</a>
