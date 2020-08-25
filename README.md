@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" width="500" height="500" src="https://github.com/Ciip1996/Ciip1996/blob/master/img/home-banner-bg.png">
+<img align="right" width="500" height="500" src="https://github.com/Ciip1996/Ciip1996/blob/master/binary-code-475664_1280.jpg">
 
 
 # Front End Developer.
