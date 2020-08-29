@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="500" height="500" src="https://github.com/Ciip1996/Ciip1996/blob/master/binary-code-475664_1280.jpg">
+<img align="right" width="500" height="500" src="https://github.com/Ciip1996/Ciip1996/blob/master/development.svg">
 
 
 # Front End Developer.
