@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <img align="right" width="500" height="500" src="https://github.com/Ciip1996/Ciip1996/blob/master/development.svg">
 
 
-# Front End Developer.
+# Front End Software Engineer.
 
-Front End Developer | React Developer | Web | Jr. Mobile (React Native - Xamarin - iOS)
+Software Engineer | Front End | React | Web | Jr. Mobile (React Native - Xamarin - iOS)
 
 
 [![Github](https://img.shields.io/github/followers/Ciip1996?style=social)](https://github.com/Ciip1996)
