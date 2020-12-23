@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 <!--
 **Ciip1996/Ciip1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <img align="right" width="500" height="500" src="https://github.com/Ciip1996/Ciip1996/blob/master/development.svg">
 
 
-# Front End Software Engineer.
+# Front End Software Engineer
 
-Software Engineer | Front End | React | Web | Jr. Mobile (React Native - Xamarin - iOS)
+Software Engineer | Front End | React | Web | Jr. Mobile (React Native - Xamarin - iOS) | Desktop
 
 
 [![Github](https://img.shields.io/github/followers/Ciip1996?style=social)](https://github.com/Ciip1996)
@@ -34,16 +34,19 @@ Software Engineer | Front End | React | Web | Jr. Mobile (React Native - Xamarin
 
 ## About Ivan
 
-- Bachelor in Software and Computer Systems Engineering.
+- Bachelor in Software and Computer Systems Engineering 2015-2020.
 
-- Lived in Canada for a year as an exchange student.
+- Participated at the GKS (Global Korean Scholarship) summer program in 2019. In which obtained the Award of Excellence for best project.
 
-- Participated at the Global Korean Scholarship summer program in 2019.
+- Exchange student in Canada during Fall 2017 and Winter 2018.
 
-- Loves programming, UI, multimedia, coffee and pizza. 🍕 
+- Loves programming, UI, multimedia, movies, cardio, coffee and pizza 🍕.
 
 - Speaks spanish (native), English (advanced) and he's learning french (enough to ask for food in Québec).
 
+## I’m currently learning
+
+- AWS Associate Developer Course
 
 ## Wanna reach me?
 
