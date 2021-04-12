@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Front End Software Engineer
 
-Software Engineer | Front End | React | Web | Jr. Mobile (React Native - Xamarin - iOS) | Desktop
+Software Engineer | Front End | React | Web | Mobile | Desktop
 
 
 [![Github](https://img.shields.io/github/followers/Ciip1996?style=social)](https://github.com/Ciip1996)
@@ -62,6 +62,6 @@ Software Engineer | Front End | React | Web | Jr. Mobile (React Native - Xamarin
 <a href="mailto:bytepacheco@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
-<a href="https://stackoverflow.com/users/11723572/ciip1996">
+<a href="https://stackoverflow.com/users/11120704/c-i-i-p">
   <img align="left" alt="Stack" width="22px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
 </a>
