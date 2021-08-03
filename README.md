@@ -42,11 +42,13 @@ Software Engineer | Front End | React | Web | Mobile | Desktop
 
 - Loves programming, UI, multimedia, movies, cardio, coffee and pizza 🍕.
 
-- Speaks spanish (native), English (advanced) and he's learning french (enough to ask for food in Québec).
+- Speaks spanish (native), English (advanced) and he's learning french (enough to ask for food haha).
 
 ## I’m currently learning
 
 - AWS Associate Developer Course
+- Swift
+- React Native
 
 ## Wanna reach me?
 
