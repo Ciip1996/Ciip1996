@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="right" width="500" height="500" src="https://github.com/Ciip1996/Ciip1996/blob/master/development.svg">
 
 
-# Front End Software Engineer
+# Software Engineer
 
 Software Engineer | Front End | React | Web | Mobile | Desktop
 
